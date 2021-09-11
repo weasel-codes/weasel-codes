@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are my profile view counts : ![image title](https://rushter.com/counter.svg)
+![image title](https://rushter.com/counter.svg)
